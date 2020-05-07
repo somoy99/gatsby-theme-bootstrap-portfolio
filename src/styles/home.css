@@ -1,0 +1,28 @@
+#home{
+    display: flex;
+    justify-content: center;
+    height: 850px;
+    overflow: hidden;
+    margin-bottom: 60px;
+    background: #ecf0fa
+}
+#p_cover{
+    flex: none;
+    height: 500px;
+    margin-top:370px;
+}
+
+#header_text{
+    position: absolute;
+    top: 20%;
+
+}
+#header_text h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+}
+#header_text h2{
+    font-family: roboto;
+    font-size: 24px;
+}

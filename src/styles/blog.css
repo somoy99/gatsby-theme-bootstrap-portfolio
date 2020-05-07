@@ -1,0 +1,42 @@
+#blog{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    overflow: hidden;
+    /* margin-bottom: 60px; */
+    background: #ecf0fa
+}
+#b_cover{
+    flex: none;
+    /* height: 300px; */
+    margin-top:137.54px;
+}
+#bheader_text{
+    position: absolute;
+    top: 20%;
+
+}
+#bheader_text h3{
+    font-family: cursive;
+    font-size: 40px;
+    font-style: italic;
+}
+article{
+    padding: 46px;
+}
+
+section{
+    padding-top: 46px;
+}
+
+header h3{
+    font-size: 52px;
+}
+header small{
+    font-size: 18px;
+    font-style: italic;
+}
+
+section p {
+    font-size: 18ox;
+}

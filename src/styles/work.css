@@ -1,0 +1,23 @@
+#work{
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    overflow: hidden;
+    /* margin-bottom: 60px; */
+    background: #ecf0fa
+}
+#w_cover{
+    flex: none;
+    /* height: 300px; */
+    margin-top:137.54px;
+}
+#header_text{
+    position: absolute;
+    top: 20%;
+
+}
+#header_text h3{
+    font-family: cursive;
+    font-size: 40px;
+    font-style: italic;
+}

@@ -1,0 +1,23 @@
+#contact h3 {
+  font-size: 38px;
+  color: #273c75;
+  margin-bottom: 45px;
+  margin-top: 75px;
+}
+h5 {
+    margin-top: 35px;
+  color: #273c75;
+}
+#contact_me_svg {
+  margin: 0 auto;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+form{
+
+    margin-top: 35px;
+}
+.btn{
+    width: 250px!important;
+}
