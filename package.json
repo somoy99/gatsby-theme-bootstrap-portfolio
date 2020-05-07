@@ -9,6 +9,22 @@
     "url": "git+https://github.com/somoy99/gatsby-theme-bootstrap-portfolio.git"
   },
   "homepage": "https://elegant-khorana-6044ac.netlify.app/",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "bootstrap",
+    "portfolio",
+    "gatsby-plugin-mdx",
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-react-svg",
+    "gatsby-plugin-robots-txt",
+    "gatsby-plugin-sharp",
+    "gatsby-plugin-sitemap",
+    "gatsby-remark-images",
+    "gatsby-source-filesystem",
+    "react-bootstrap",
+    "react-helmet"
+  ],
   "peerDependencies": {
     "gatsby": "^2.20.32",
     "react": "^16.13.1",

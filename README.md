@@ -78,12 +78,6 @@ slug: "slug"
 ---
 ```
 
-```jsx
-import React from "react"
-
-export default () => <div>My Site!</div>
-```
-
 ## Doing more with this theme
 
 Learn component shadowing if you want to modify further.
