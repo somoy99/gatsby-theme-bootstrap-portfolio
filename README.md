@@ -18,13 +18,15 @@
 
 <div align="center">
 
-![Theme Gif](assets/bootstrapportfolio.gif)
+![Product Gif](https://s6.gifyu.com/images/bootstrapportfolio.gif)
 
 </div>
 
 **Bootstrap Portfolio** - A Developer Portfolio Theme with Separate Work and Blog Section with MDX.
 it's based on *react-bootstrap* and comes with all the goodies such as SEO and gatsby sharp.
 
+## Demo
+https://elegant-khorana-6044ac.netlify.app/
 
 ## Quick Start
 
