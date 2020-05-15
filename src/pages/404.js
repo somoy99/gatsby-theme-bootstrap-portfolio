@@ -1,12 +1,12 @@
 import React from 'react'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 const NotFoundPage = () => {
-    return (
-        <div>
-            <SEO title="Not Found" />
+  return (
+    <div>
+      <Seo title='Not Found' />
             page not found
-        </div>
-    )
+    </div>
+  )
 }
 
 export default NotFoundPage
