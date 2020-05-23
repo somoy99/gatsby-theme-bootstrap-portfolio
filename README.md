@@ -26,7 +26,7 @@
 it's based on *react-bootstrap* and comes with all the goodies such as SEO and gatsby sharp.
 
 ## Demo
-https://elegant-khorana-6044ac.netlify.app/
+https://somoykhan.netlify.app/
 
 ## Quick Start
 

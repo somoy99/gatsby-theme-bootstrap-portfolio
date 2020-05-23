@@ -1,6 +1,6 @@
 {
   "name": "@somoykhan/gatsby-theme-bootstrap-portfolio",
-  "version": "1.0.3-beta5",
+  "version": "1.0.3-beta6",
   "main": "index.js",
   "author": "k.somoykhan@gmail.com (somoy khan)",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/somoy99/gatsby-theme-bootstrap-portfolio.git"
   },
-  "homepage": "https://elegant-khorana-6044ac.netlify.app/",
+  "homepage": "somoykhan.netlify.app/",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
